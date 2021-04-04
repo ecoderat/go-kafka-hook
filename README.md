@@ -3,7 +3,7 @@
 A web application is written in go lang; that logs the HTTP requests it responds; to a file, Kafka, and a database.
 
 
-![](https://github.com/ecoderat/go-kafka-hook/blob/master/ui/static/img/readme-grafana-graphic.png?raw=true)
+![](https://github.com/ecoderat/go-kafka-hook/blob/main/ui/static/img/readme-grafana-graphic.png?raw=true)
 
 
 ## Prerequisites
@@ -47,7 +47,7 @@ sudo docker-compose up --build
 1. In the side bar, hover your cursor over the **Create** (plus sign) icon and then click **Dashboard**.
 1. Click **Add new panel**.
 2. Configire like that:
-![](https://github.com/ecoderat/go-kafka-hook/blob/master/ui/static/img/readme-grafana-query.png?raw=true)
+![](https://github.com/ecoderat/go-kafka-hook/blob/main/ui/static/img/readme-grafana-query.png?raw=true)
 
 
 ## Remove
